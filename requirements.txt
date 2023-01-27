@@ -1,0 +1,14 @@
+numpy
+pandas
+seaborn
+matplotlib
+sklearn
+shap
+plotly
+termcolor
+imblearn
+getml
+tqdm
+xgboost
+lightgbm
+ipykernel
